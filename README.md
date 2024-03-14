@@ -1,16 +1,18 @@
-- 👋 Hi there! I'm @Komalharini237, a passionate Bioinformatician on a mission to bridge the gap between biology and data science.
+- 👋 Hi there! I'm @Komalharini237, a Bioinformatician with a heart set on merging biology with the magic of data science.
 
-- 🔬 With expertise in both biology and computation, I'm driven by curiosity to explore new frontiers in bioinformatics and data science. Whether unraveling genome mysteries or decoding complex biological patterns,  I'm always eager to dive headfirst into new challenges.
+- 🔬 With expertise in both realms, I'm on a quest to explore new frontiers in bioinformatics and data science, decoding genome mysteries and complex biological patterns.
 
-- 💼 From handling and analyzing Next Generation Sequencing (NGS) data to leading the backend development of in-house applications, I've immersed myself in the dynamic intersection of biology and technology.
+- 💻 From handling NGS data to crafting innovative solutions, I pour my soul into every line of code, driven by the desire to create tangible impacts in bioinformatics and data science.
 
-- 🌱 When I'm not immersed in the world of bioinformatics, you'll find me indulging in my other passions, from performing arts to stargazing. As an avid theatre enthusiast and writer, I find solace in the creative expression of the arts, which complements my analytical pursuits perfectly.
+- 💼 Fueled by my love for coding with a deep interest in biology, I'm determined to make waves in the STEAM community by diving headfirst into the dynamic world where biology meets technology.
 
-- 💡 I believe that the true magic happens at the intersection of passion and purpose. If you're interested in collaborating on groundbreaking projects that push the boundaries of bioinformatics and data science, I'd love to connect!
+- 🌱 When I'm not immersed in the world of bioinformatics, you'll find me indulging in my other passions, from performing arts to stargazing. As an avid theatre enthusiast and wordsmith, I find solace in the art of creation, a perfect harmony to my analytical pursuits.
 
-- 📫 Reach out to me via email at kharinirt237@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/komalharini-tiwari/
+- 💡 I believe that the true magic happens at the intersection of passion and purpose. If you're interested in collaborating on groundbreaking projects that push the boundaries of bioinformatics, development and data, I'd love to connect!
 
-- 💞️ Let's embark on this exciting journey together and unlock the mysteries of the biological world, one line of code at a time!
+- 📫 Reach me at kharinirt237@gmail.com or LinkedIn: https://www.linkedin.com/in/komalharini-tiwari/
+
+- 💞️ Let's embark on this exciting journey together and unlock the mysteries of the STEAM world, one line of code at a time!
 
 <!---
 Komalharini237/Komalharini237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
