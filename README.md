@@ -12,6 +12,8 @@
 
 - 📫 Reach me at kharinirt237@gmail.com or LinkedIn: https://www.linkedin.com/in/komalharini-tiwari/
 
+- My medium Page: https://medium.com/@kharinirt237 
+
 - 💞️ Let's embark on this exciting journey together and unlock the mysteries of the STEAM world, one line of code at a time!
 
 <!---
